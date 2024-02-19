@@ -10,6 +10,7 @@
     - EXEL
     - JAVA
     - JAVAFX
+    - OCAML
     // LANGUAGES
     - english 
     - french
